@@ -1,0 +1,28 @@
+{
+  "name": "dispatcher",
+  "version": "0.0.0",
+  "description": "A bare-bones solution for registering and listening to arbitrary events",
+  "main": "dispatcher.js",
+  "dependencies": {
+    "jasmine": "~2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathanbrennan/dispatcher.git"
+  },
+  "keywords": [
+    "dispatch",
+    "dispatcher",
+    "event",
+    "context"
+  ],
+  "author": "Nathan Brennan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nathanbrennan/dispatcher/issues"
+  }
+}
