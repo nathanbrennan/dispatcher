@@ -82,3 +82,8 @@ dispatcher.unregister(handlerID);
 ```shell
 $ npm test
 ```
+
+
+## Release History
+
+* 0.1.0 Initial release

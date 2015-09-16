@@ -1,6 +1,6 @@
 {
   "name": "dispatcher",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A bare-bones solution for registering and listening to arbitrary events",
   "main": "dispatcher.js",
   "devDependencies": {
