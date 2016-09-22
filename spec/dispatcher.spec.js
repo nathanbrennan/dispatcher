@@ -51,7 +51,7 @@ describe('Dispatcher', function () {
       handler_4_HasRun = false;
     });
 
-    it('can triggers all handlers for a given event', function() {
+    it('can trigger all handlers for a given event', function() {
       dispatcher.dispatch('event_A');
 
       expect(handler_1_HasRun).toEqual(true);
